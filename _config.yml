@@ -1,1 +1,8 @@
 theme: jekyll-theme-cayman
+title: AutoML: From Methodology to Application
+email: joneswong.ml@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+ The website for CIKM2021 AutoML Tutorial.
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: joneswong

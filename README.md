@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# AutoML: From Methodology to Application
 
-You can use the [editor on GitHub](https://github.com/joneswong/CIKM21AutoMLTutorial/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Abstract
+Machine Learning methods have been adopted for a wide range of real-world applications, ranging from social networks, online image/video-sharing platforms, and e-commerce to education, healthcare, etc. However, in practice, a large amount of effort is required to tune several components of machine learning methods, including data representation, hyperparameter, and model architecture, in order to achieve a good performance. To alleviate the required tunning efforts, Automated Machine Learning (AutoML), which can automate the process of applying machine learning methods, has been studied in both academy and industry recently. In this tutorial, we will introduce the main research topics of AutoML, including Hyperparameter Optimization, Neural Architecture Search, and Meta-Learning. Two emerging topics of AutoML, Automatic Feature Generation and Machine Learning Guided Database, will also be discussed since they are important components for real-world applications. For each topic, we will motivate it with application examples from industry, illustrate the state-of-the-art methodologies, and discuss some future research directions based on our experience from industry and the trends in academy.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Tutorial Slides
+(coming soon!)
 
-### Markdown
+## Schedule
+(coming soon!)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/joneswong/CIKM21AutoMLTutorial/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Organizers
+[Yaliang Li](https://sites.google.com/site/yaliangli/) and ![Image](materials/yaliang.png)
+[Zhen Wang](https://joneswong.github.io/about/) and ![Image](materials/zhen.png)
+[Yuexiang Xie](https://xieyxclack.github.io/) and ![Image](materials/yuexiang.png)
+[Bolin Ding](https://www.bolin-ding.com/index.html) and ![Image](materials/bolin.png)
+[Kai Zeng](https://kai-zeng.github.io/) and ![Image](materials/kai.jpeg)
+[Ce Zhang](https://ds3lab.inf.ethz.ch/members/ce-zhang.html) and ![Image](materials/ce.png)
