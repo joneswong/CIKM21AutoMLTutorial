@@ -10,9 +10,6 @@ Machine Learning methods have been adopted for a wide range of real-world applic
 (coming soon!)
 
 ## Organizers
-[Yaliang Li](https://sites.google.com/site/yaliangli/) and ![Image](materials/yaliang.png)
-[Zhen Wang](https://joneswong.github.io/about/) and ![Image](materials/zhen.png)
-[Yuexiang Xie](https://xieyxclack.github.io/) and ![Image](materials/yuexiang.png)
-[Bolin Ding](https://www.bolin-ding.com/index.html) and ![Image](materials/bolin.png)
-[Kai Zeng](https://kai-zeng.github.io/) and ![Image](materials/kai.jpeg)
-[Ce Zhang](https://ds3lab.inf.ethz.ch/members/ce-zhang.html) and ![Image](materials/ce.png)
+[Yaliang Li](https://sites.google.com/site/yaliangli/) | [Zhen Wang](https://joneswong.github.io/about/) | [Yuexiang Xie](https://xieyxclack.github.io/) | [Bolin Ding](https://www.bolin-ding.com/index.html) | [Kai Zeng](https://kai-zeng.github.io/) | [Ce Zhang](https://ds3lab.inf.ethz.ch/members/ce-zhang.html)
+:---:|:---:|:---:|:---:|:---:|:---:
+<img class="rounded-circle" alt="140x140" style="width: 140px; height: 140px;" src="materials/yaliang.png" data-holder-rendered="true"> | <img class="rounded-circle" alt="140x140" style="width: 140px; height: 140px;" src="materials/zhen.png" data-holder-rendered="true"> | <img class="rounded-circle" alt="140x140" style="width: 140px; height: 140px;" src="materials/yuexiang.png" data-holder-rendered="true"> | <img class="rounded-circle" alt="140x140" style="width: 140px; height: 140px;" src="materials/bolin.png" data-holder-rendered="true"> | <img class="rounded-circle" alt="140x140" style="width: 140px; height: 140px;" src="materials/kai.jpeg" data-holder-rendered="true"> | <img class="rounded-circle" alt="140x140" style="width: 140px; height: 140px;" src="materials/ce.png" data-holder-rendered="true">
