@@ -7,8 +7,7 @@ Machine Learning methods have been adopted for a wide range of real-world applic
 (coming soon!)
 
 ## Schedule
-Time zone: UTC
-Date: Nov 5th
+Date: Nov 5th (UTC)
 - 5:00AM--5:10AM Welcome from Organizers (by Yaliang Li)
 - 5:10AM--5:40AM Hyperparameter Optimization (HPO) (by Yaliang Li)
 - 5:40AM--6:15AM Neural Architecture Search (NAS) (by Zhen Wang)
