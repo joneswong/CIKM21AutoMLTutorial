@@ -7,7 +7,18 @@ Machine Learning methods have been adopted for a wide range of real-world applic
 (coming soon!)
 
 ## Schedule
-(coming soon!)
+Time zone: UTC
+Date: Nov 5th
+- 5:00AM--5:10AM Welcome from Organizers (by Yaliang Li)
+- 5:10AM--5:40AM Hyperparameter Optimization (HPO) (by Yaliang Li)
+- 5:40AM--6:15AM Neural Architecture Search (NAS) (by Zhen Wang)
+- 6:15AM--6:30AM Meta-learning (by Zhen Wang)
+- 6:30AM--7:00AM Auto Feature Generation (by Yuexiang Xie)
+- 7:00AM--7:25AM End-to-End AutoML (by Ce Zhang)
+- 7:25AM--7:50AM ML-Guided Database: Learned Index (by Bolin Ding)
+- 7:50AM--9:50AM ML-Guided Database: Cardinality Estimation (by Rong Zhu and Kai Zeng)
+- 9:50AM--9:55AM AutoML Tools (by Zhen Wang)
+- 9:55AM--10:00AM Closing Remarks (by Yaliang Li)
 
 ## Organizers
 
