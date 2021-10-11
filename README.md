@@ -19,6 +19,18 @@ Date: Nov 5th (UTC)
 - 9:50AM--9:55AM AutoML Tools (by Zhen Wang)
 - 9:55AM--10:00AM Closing Remarks (by Yaliang Li)
 
+Or equivalently, for the convenience of audiences in China, Singapore, Australian, etc., Nov 5th (UTC+8)
+- 13:00AM--13:10AM Welcome from Organizers (by Yaliang Li)
+- 13:10AM--13:40AM Hyperparameter Optimization (HPO) (by Yaliang Li)
+- 13:40AM--14:15AM Neural Architecture Search (NAS) (by Zhen Wang)
+- 14:15AM--14:30AM Meta-learning (by Zhen Wang)
+- 14:30AM--15:00AM Auto Feature Generation (by Yuexiang Xie)
+- 15:00AM--15:25AM End-to-End AutoML (by Ce Zhang)
+- 15:25AM--15:50AM ML-Guided Database: Learned Index (by Bolin Ding)
+- 15:50AM--17:50AM ML-Guided Database: Cardinality Estimation (by Rong Zhu and Kai Zeng)
+- 17:50AM--17:55AM AutoML Tools (by Zhen Wang)
+- 17:55AM--18:00AM Closing Remarks (by Yaliang Li)
+
 ## Organizers
 
 | [Yaliang Li](https://sites.google.com/site/yaliangli/) | [Zhen Wang](https://joneswong.github.io/about/) | [Yuexiang Xie](https://xieyxclack.github.io/) | [Bolin Ding](https://www.bolin-ding.com/index.html) | [Kai Zeng](https://kai-zeng.github.io/) | [Ce Zhang](https://ds3lab.inf.ethz.ch/members/ce-zhang.html) | [Rong Zhu](https://scholar.google.com/citations?user=i0cC60cAAAAJ&hl=zh-CN) |
